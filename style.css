@@ -1,0 +1,64 @@
+button {
+    width: 279px;
+    height: 40px;
+    background-color: #00babc!important;
+    background-size: cover;
+    font-weight: 600!important;
+    font-family: Calibri;
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-align: center;
+    border: 0!important;
+    border-radius: 0!important;
+}
+
+input[type=text] {
+    width: 346px;
+    height: 40px;
+    padding: 0px 8px;
+    border: 5px solid #00babc!important;
+    background-color: #ffffff!important;
+    background-size: cover;
+    font-family: Calibri;
+    font-size: 14px;
+    color: #121212!important;
+    text-decoration: none solid rgb(18, 18, 18)!important;
+    text-align: center;
+    border-radius: 0!important;
+}
+
+table {
+    width: 56px;
+    height: 22px;
+    font-family: Calibri;
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+table tr {
+    width: 306px;
+    height: 40px;
+}
+
+.table thead th {
+    width: 100%;
+}
+
+.table td, .table th {
+    height: 1px;
+    stroke-width: 2;
+    border-top-color: transparent;
+    border-bottom-color: #00babc!important;
+}
+
+table tr td {
+    font-family: Calibri;
+    font-size: 13px;
+    color: #000000;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: center;
+
+}
